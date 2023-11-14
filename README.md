@@ -1,6 +1,6 @@
-# bubble_project User registration system
+## User registration system
 
-## The system allows:
+### The system allows:
 
 ✔ Register user accounts using the form
 creating a new user;
