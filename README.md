@@ -12,7 +12,8 @@ using the user table;
 
  ![login](/assets/login.png) 
  ![sign_up](/assets/sign_up.png) 
- ![myDB_users](/assets/myDB_users.png) 
- ![edit_user](/assets/edit_user.png) 
- ![create_user](/assets/create_user.png) 
- ![users_embaddedDB](/assets/users_embaddedDB.png) 
+ ![empty_list](/assets/empty_list.png) 
+ ![create-user](/assets/create-user.png) 
+ ![edit-user](/assets/edit-user.png) 
+ ![list-of-users](/assets/list-of-users.png) 
+ ![confirm-delete](/assets/confirm-delete.png) 
